@@ -1,0 +1,6 @@
+2022/09/06-15:50:23.808 650f Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_thecloudgirl.dev_0.indexeddb.leveldb since it was missing.
+2022/09/06-15:50:23.812 650f Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_thecloudgirl.dev_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/06-15:51:02.207 64a8 Level-0 table #5: started
+2022/09/06-15:51:02.209 64a8 Level-0 table #5: 2010 bytes OK
+2022/09/06-15:51:02.211 64a8 Delete type=0 #3
+2022/09/06-15:51:02.212 64a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

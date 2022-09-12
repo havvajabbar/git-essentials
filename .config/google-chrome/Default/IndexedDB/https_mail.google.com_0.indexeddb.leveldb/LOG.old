@@ -1,0 +1,21 @@
+2022/09/09-14:03:11.608 baa5 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/09-14:03:11.608 baa5 Recovering log #82
+2022/09/09-14:03:11.609 baa5 Reusing old log /home/niveus/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000082.log 
+2022/09/09-14:03:14.490 bae2 Compacting 1@1 + 1@2 files
+2022/09/09-14:03:14.493 bae2 Generated table #85@1: 90 keys, 129538 bytes
+2022/09/09-14:03:14.493 bae2 Compacted 1@1 + 1@2 files => 129538 bytes
+2022/09/09-14:03:14.496 bae2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/09-14:03:14.496 bae2 Delete type=2 #81
+2022/09/09-14:03:14.496 bae2 Delete type=2 #83
+2022/09/12-09:53:51.938 bae2 Level-0 table #87: started
+2022/09/12-09:53:51.968 bae2 Level-0 table #87: 859025 bytes OK
+2022/09/12-09:53:51.971 bae2 Delete type=0 #82
+2022/09/12-09:53:51.972 bae2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/09/12-09:53:51.972 bae2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0a\x01\x02\x01?\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00#\x00i\x00n\x00b\x00o\x00x' @ 51190 : 1
+2022/09/12-09:53:51.972 bae2 Compacting 1@1 + 1@2 files
+2022/09/12-09:53:52.005 bae2 Generated table #88@1: 242 keys, 612001 bytes
+2022/09/12-09:53:52.005 bae2 Compacted 1@1 + 1@2 files => 612001 bytes
+2022/09/12-09:53:52.007 bae2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/12-09:53:52.008 bae2 Delete type=2 #85
+2022/09/12-09:53:52.008 bae2 Delete type=2 #87
+2022/09/12-09:53:52.008 bae2 Manual compaction at level-1 from '\x00\x0a\x01\x02\x01?\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00H\x00i\x00t\x00C\x00o\x00u\x00n\x00t\x00e\x00r\x00s\x00:\x00:\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00m\x00a\x00i\x00l\x00.\x00g\x00o\x00o\x00g\x00l\x00e\x00.\x00c\x00o\x00m\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/\x00#\x00i\x00n\x00b\x00o\x00x' @ 51190 : 1 .. (end); will stop at (end)

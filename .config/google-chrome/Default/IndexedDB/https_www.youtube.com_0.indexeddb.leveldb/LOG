@@ -1,0 +1,12 @@
+2022/09/07-12:30:09.186 7918 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/07-12:30:09.186 7918 Recovering log #35
+2022/09/07-12:30:09.190 7918 Reusing old log /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000035.log 
+2022/09/12-11:24:29.343 d28a Level-0 table #40: started
+2022/09/12-11:24:29.358 d28a Level-0 table #40: 1084697 bytes OK
+2022/09/12-11:24:29.360 d28a Delete type=0 #35
+2022/09/12-11:26:41.849 d28a Compacting 1@1 + 1@2 files
+2022/09/12-11:26:41.861 d28a Generated table #41@1: 394 keys, 44474 bytes
+2022/09/12-11:26:41.861 d28a Compacted 1@1 + 1@2 files => 44474 bytes
+2022/09/12-11:26:41.862 d28a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/09/12-11:26:41.862 d28a Delete type=2 #37
+2022/09/12-11:26:41.863 d28a Delete type=2 #40

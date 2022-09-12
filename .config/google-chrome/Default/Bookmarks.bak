@@ -1,0 +1,68 @@
+{
+   "checksum": "874c0b3a1433898d8f05e044feee071a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306230784198590",
+            "guid": "17d52d30-8a2f-482b-869c-6931f0191dfd",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13306230784200037",
+            "guid": "e351ad27-b1a3-49d0-9e38-340285e08c77",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13306230784200368",
+            "guid": "89b8ca0a-c4be-426f-93f2-8b59930841bb",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13306307172534041",
+            "guid": "4ae954a8-8c72-46f2-8378-5b342e07cbfb",
+            "id": "9",
+            "name": "NiveusUni",
+            "type": "url",
+            "url": "https://disprzniveus.mygo1.com/p/#/app/dashboard"
+         }, {
+            "date_added": "13306311165405657",
+            "guid": "c866d645-461b-438f-8db5-c764cf5f25a6",
+            "id": "12",
+            "name": "ZohoPeople",
+            "type": "url",
+            "url": "https://peopleplus.zoho.com/niveussolutionscom/zp#services/listing"
+         } ],
+         "date_added": "13306230779565407",
+         "date_modified": "13306311165405657",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13306230779565408",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13306230779565409",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

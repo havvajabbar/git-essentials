@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///media/niveus/4823-0029/google-chrome-stable_current_amd64(1).deb" added="2022-07-26T08:19:06.472346Z" modified="2022-07-26T08:19:06.472357Z" visited="2022-07-26T08:19:06.472347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_ubuntu-software-local-file.desktop /snap/bin/snap-store.ubuntu-software-local-file --local-filename %f&apos;" modified="2022-07-26T08:19:06.472351Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Documents/USB%20Disable%20File/Command%20Line" added="2022-07-26T08:20:56.019433Z" modified="2022-07-26T08:20:56.019435Z" visited="2022-07-26T08:20:56.019433Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-07-26T08:20:56.019434Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/niveus/CPBA_X64FRE_EN-US_DV9/Niveus%20Logo/wallpaper.png" added="2022-08-29T07:11:34.727848Z" modified="2022-08-29T07:11:34.727853Z" visited="2022-08-29T07:11:34.727849Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2022-08-29T07:11:34.727850Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/niveus/CPBA_X64FRE_EN-US_DV9/Niveus%20Logo/Niveus%20Small%20Logo.jpg" added="2022-08-29T07:11:47.997428Z" modified="2022-08-29T07:11:47.997432Z" visited="2022-08-29T07:11:47.997429Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-control-center" exec="&apos;gnome-control-center %u&apos;" modified="2022-08-29T07:11:47.997430Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/niveus/CPBA_X64FRE_EN-US_DV9/ems_7.0.3/forticlient_7.0.3.0137_amd64.deb" added="2022-08-29T07:17:24.370156Z" modified="2022-08-29T07:19:03.549073Z" visited="2022-08-29T07:17:24.370159Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_ubuntu-software-local-file.desktop /snap/bin/snap-store.ubuntu-software-local-file --local-filename %f&apos;" modified="2022-08-29T07:19:03.549063Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/niveus/CPBA_X64FRE_EN-US_DV9/ems_7.0.3/ems%20invitation%20code.txt" added="2022-08-29T07:20:21.009276Z" modified="2022-08-29T07:20:21.009279Z" visited="2022-08-29T07:20:21.009276Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-08-29T07:20:21.009277Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Documents/Anti" added="2022-08-29T07:20:51.315590Z" modified="2022-08-29T07:20:51.315612Z" visited="2022-08-29T07:20:51.315592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.3" exec="&apos;soffice %u&apos;" modified="2022-08-29T07:20:51.315607Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads/degree%20certificate%20(1).jpg" added="2022-08-30T03:52:48.573695Z" modified="2022-08-30T03:55:35.088637Z" visited="2022-08-30T03:52:48.573695Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2022-08-30T03:52:48.573697Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-08-30T03:55:35.088633Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Pictures/Screenshots/Screenshot%20from%202022-08-30%2012-42-02.png" added="2022-08-30T07:12:02.108590Z" modified="2022-08-30T07:12:17.864567Z" visited="2022-08-30T07:12:02.108591Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2022-08-30T07:12:02.108592Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-08-30T07:12:17.864565Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Pictures/Screenshots/Screenshot%20from%202022-08-30%2013-16-47.png" added="2022-08-30T07:46:47.633140Z" modified="2022-08-30T07:47:06.742084Z" visited="2022-08-30T07:46:47.633141Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2022-08-30T07:46:47.633142Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-08-30T07:47:06.742081Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Pictures/Screenshots/Screenshot%20from%202022-09-01%2014-02-29.png" added="2022-09-01T08:32:29.251758Z" modified="2022-09-01T08:32:50.054337Z" visited="2022-09-01T08:32:29.251759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2022-09-01T08:32:29.251760Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gnome" exec="&apos;xdg-desktop-portal-gnome %u&apos;" modified="2022-09-01T08:32:50.054333Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Pictures/Screenshots/Screenshot%20from%202022-09-05%2015-15-31.png" added="2022-09-05T09:45:31.215090Z" modified="2022-09-05T09:45:31.215094Z" visited="2022-09-05T09:45:31.215090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2022-09-05T09:45:31.215092Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Pictures/Screenshots/Screenshot%20from%202022-09-12%2009-58-49.png" added="2022-09-12T04:28:49.889439Z" modified="2022-09-12T04:28:49.889443Z" visited="2022-09-12T04:28:49.889440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2022-09-12T04:28:49.889441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads/code_1.71.0-1662018389_amd64.deb" added="2022-09-12T05:38:43.569402Z" modified="2022-09-12T05:38:43.569409Z" visited="2022-09-12T05:38:43.569405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-12T05:38:43.569406Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads" added="2022-09-12T05:38:50.750559Z" modified="2022-09-12T05:52:31.489428Z" visited="2022-09-12T05:38:50.750560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-09-12T05:52:31.489427Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads/code_1.71.0-1662018389_amd64%20(1).deb" added="2022-09-12T05:50:45.997681Z" modified="2022-09-12T05:56:56.984924Z" visited="2022-09-12T05:50:45.997681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-12T05:50:45.997682Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/snap-store_ubuntu-software-local-file.desktop /snap/bin/snap-store.ubuntu-software-local-file --local-filename %f&apos;" modified="2022-09-12T05:56:56.984906Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads/VSCodeUserSetup-x64-1.71.0%20(1).exe" added="2022-09-12T05:51:08.361824Z" modified="2022-09-12T05:51:08.361830Z" visited="2022-09-12T05:51:08.361825Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2022-09-12T05:51:08.361827Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads/InstallationGuide.pdf" added="2022-09-12T05:51:14.336024Z" modified="2022-09-12T05:51:14.336028Z" visited="2022-09-12T05:51:14.336025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Document Viewer" exec="&apos;evince %u&apos;" modified="2022-09-12T05:51:14.336026Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Downloads/data.tar.xz" added="2022-09-12T05:51:25.674455Z" modified="2022-09-12T05:51:30.478463Z" visited="2022-09-12T05:51:25.674464Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2022-09-12T05:51:25.674468Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-09-12T05:51:30.478461Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/.cache/.fr-jGvxbV/usr/share/appdata/code.appdata.xml" added="2022-09-12T05:52:00.855819Z" modified="2022-09-12T05:52:00.855822Z" visited="2022-09-12T05:52:00.855819Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2022-09-12T05:52:00.855820Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/test1" added="2022-09-12T06:16:41.108011Z" modified="2022-09-12T06:16:41.108019Z" visited="2022-09-12T06:16:41.108012Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-09-12T06:16:41.108015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Desktop" added="2022-09-12T06:18:23.629187Z" modified="2022-09-12T06:18:23.629193Z" visited="2022-09-12T06:18:23.629188Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-09-12T06:18:23.629190Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Desktop/html" added="2022-09-12T06:19:02.074632Z" modified="2022-09-12T06:19:02.074641Z" visited="2022-09-12T06:19:02.074633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-09-12T06:19:02.074637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/niveus/Desktop/test.html" added="2022-09-12T06:19:39.850338Z" modified="2022-09-12T06:19:39.850345Z" visited="2022-09-12T06:19:39.850340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-09-12T06:19:39.850342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,7 @@
+2022/09/06-11:27:03.038 4df6 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/06-11:27:03.038 4df6 Recovering log #3
+2022/09/06-11:27:03.039 4df6 Reusing old log /home/niveus/.config/google-chrome/Default/IndexedDB/https_calendar.google.com_0.indexeddb.leveldb/000003.log 
+2022/09/06-11:27:06.378 4cfc Level-0 table #5: started
+2022/09/06-11:27:06.380 4cfc Level-0 table #5: 1348 bytes OK
+2022/09/06-11:27:06.382 4cfc Delete type=0 #3
+2022/09/06-11:27:06.382 4cfc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

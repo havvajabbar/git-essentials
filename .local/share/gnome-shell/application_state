@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="libreoffice-writer.desktop" score="1" last-seen="1661757652"/>
+    <application id="org.gnome.Evince.desktop" score="1" last-seen="1662961882"/>
+    <application id="org.gnome.FileRoller.desktop" score="13" last-seen="1662961959"/>
+    <application id="snap-store_ubuntu-software-local-file.desktop" score="14.5" last-seen="1662963487"/>
+    <application id="google-chrome.desktop" score="18046" last-seen="1662971121"/>
+    <application id="org.gnome.Cheese.desktop" score="0" last-seen="1662095636"/>
+    <application id="software-properties-gtk.desktop" score="1" last-seen="1662026698"/>
+    <application id="gnome-control-center.desktop" score="33.5" last-seen="1662961163"/>
+    <application id="apport-gtk.desktop" score="2" last-seen="1661757068"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1661834173"/>
+    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1662967401"/>
+    <application id="org.gnome.gedit.desktop" score="0.5" last-seen="1662961924"/>
+    <application id="update-manager.desktop" score="0" last-seen="1662962320"/>
+    <application id="org.gnome.Terminal.desktop" score="218.5" last-seen="1662971137"/>
+    <application id="gnome-system-monitor.desktop" score="1.5" last-seen="1662026415"/>
+    <application id="code.desktop" score="51" last-seen="1662970374"/>
+  </context>
+</application-state>

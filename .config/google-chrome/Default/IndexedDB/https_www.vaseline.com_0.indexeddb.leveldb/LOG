@@ -1,0 +1,6 @@
+2022/08/30-14:37:52.013 4b50 Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.vaseline.com_0.indexeddb.leveldb since it was missing.
+2022/08/30-14:37:52.017 4b50 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.vaseline.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/30-14:37:56.425 4aed Level-0 table #5: started
+2022/08/30-14:37:56.426 4aed Level-0 table #5: 573 bytes OK
+2022/08/30-14:37:56.427 4aed Delete type=0 #3
+2022/08/30-14:37:56.428 4aed Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

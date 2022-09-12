@@ -1,0 +1,20 @@
+2022/09/12-10:57:58.555 c8d5 Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb since it was missing.
+2022/09/12-10:57:58.559 c8d5 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/12-10:58:01.636 c8df Level-0 table #5: started
+2022/09/12-10:58:01.638 c8df Level-0 table #5: 2150 bytes OK
+2022/09/12-10:58:01.641 c8df Delete type=0 #3
+2022/09/12-10:58:01.641 c8df Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/12-10:58:01.998 c9d0 Level-0 table #7: started
+2022/09/12-10:58:01.999 c9d0 Level-0 table #7: 2406 bytes OK
+2022/09/12-10:58:02.003 c9d0 Delete type=0 #4
+2022/09/12-10:58:02.003 c9d0 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/09/12-10:58:05.744 c9d0 Level-0 table #9: started
+2022/09/12-10:58:05.745 c9d0 Level-0 table #9: 9506 bytes OK
+2022/09/12-10:58:05.748 c9d0 Delete type=0 #6
+2022/09/12-10:58:05.748 c9d0 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 655 : 1
+2022/09/12-10:58:05.748 c9d0 Compacting 1@0 + 1@1 files
+2022/09/12-10:58:05.750 c9d0 Generated table #10@0: 244 keys, 4107 bytes
+2022/09/12-10:58:05.750 c9d0 Compacted 1@0 + 1@1 files => 4107 bytes
+2022/09/12-10:58:05.752 c9d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/12-10:58:05.752 c9d0 Delete type=2 #9
+2022/09/12-10:58:05.752 c9d0 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 655 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

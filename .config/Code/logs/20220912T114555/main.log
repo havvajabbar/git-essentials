@@ -1,0 +1,6 @@
+[2022-09-12 11:45:55.248] [main] [info] update#setState idle
+[2022-09-12 11:45:55.942] [main] [info] Starting extension host with pid 56847 (fork() took 4 ms).
+[2022-09-12 11:46:25.250] [main] [info] update#setState checking for updates
+[2022-09-12 11:46:25.579] [main] [info] update#setState idle
+[2022-09-12 11:47:59.845] [main] [info] Extension host with pid 56847 exited with code: 0, signal: null.
+[2022-09-12 11:47:59.848] [main] [info] Waiting for extension host with pid 56847 to exit.

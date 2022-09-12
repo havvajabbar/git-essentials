@@ -1,0 +1,6 @@
+2022/09/02-15:48:55.771 1275 Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb since it was missing.
+2022/09/02-15:48:55.775 1275 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.udemy.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/02-16:23:30.118 1728 Level-0 table #5: started
+2022/09/02-16:23:30.120 1728 Level-0 table #5: 3859 bytes OK
+2022/09/02-16:23:30.122 1728 Delete type=0 #3
+2022/09/02-16:23:30.122 1728 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

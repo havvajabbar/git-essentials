@@ -1,0 +1,6 @@
+2022/09/07-10:10:05.971 6822 Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.pluralsight.com_0.indexeddb.leveldb since it was missing.
+2022/09/07-10:10:05.995 6822 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.pluralsight.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/07-10:10:38.002 6801 Level-0 table #5: started
+2022/09/07-10:10:38.004 6801 Level-0 table #5: 1168 bytes OK
+2022/09/07-10:10:38.007 6801 Delete type=0 #3
+2022/09/07-10:10:38.007 6801 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

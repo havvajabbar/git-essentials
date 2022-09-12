@@ -1,0 +1,6 @@
+2022/09/01-10:41:15.300 6851 Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2022/09/01-10:41:15.303 6851 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/01-10:41:29.003 6855 Level-0 table #5: started
+2022/09/01-10:41:29.007 6855 Level-0 table #5: 421375 bytes OK
+2022/09/01-10:41:29.010 6855 Delete type=0 #3
+2022/09/01-10:41:29.010 6855 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,10 @@
+[2022-08-29 12:51:07.426] [info]  Starting FortiTray
+[2022-08-29 12:51:07.428] [info]  Platform detected: ubuntu
+[2022-08-29 12:51:07.428] [info]  [ '/opt/forticlient/gui/FortiClient-linux-x64/FortiClient' ]
+[2022-08-29 12:51:07.445] [info]  Saml - init
+[2022-08-29 12:51:07.983] [info]  compliance configDir=/home/niveus/.config/FortiClient/config
+[2022-08-29 12:51:07.985] [info]  did-finish-load
+[2022-08-29 12:51:07.986] [info]  ready-to-show
+[2022-08-29 12:51:08.369] [info]  Events -  IPC_RENDERER_REQUEST.FETCH_INVITATION_CODE inviteCode=null
+[2022-08-29 12:51:08.431] [info]  IPC_RENDERER_REQUEST.LOADED
+[2022-08-29 12:51:10.099] [info]  window-all-closed

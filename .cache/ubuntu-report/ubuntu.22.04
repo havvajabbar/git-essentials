@@ -1,0 +1,64 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "HP",
+    "Product": "HP ProBook 440 G8 Notebook PC",
+    "Family": "103C_5336AN HP ProBook"
+  },
+  "BIOS": {
+    "Vendor": "HP",
+    "Version": "T88 Ver. 01.08.02"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v4",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a49"
+    }
+  ],
+  "RAM": 16.1,
+  "Partitions": [
+    487.9,
+    1.7,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "310mmx170mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 22.04 LTS \"Jammy Jellyfish\" - Release amd64 (20220419)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_crypto",
+    "DownloadUpdates": true,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "928": "console_setup",
+      "930": "prepare",
+      "942": "partman",
+      "955": "partman",
+      "1128": "start_install",
+      "1175": "timezone",
+      "1180": "usersetup",
+      "1195": "user_done",
+      "1440": "done"
+    }
+  }
+}

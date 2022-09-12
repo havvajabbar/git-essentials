@@ -1,0 +1,18 @@
+2022/09/06-09:52:04.807 43e2 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/09/06-09:52:04.807 43e2 Recovering log #3
+2022/09/06-09:52:04.808 43e2 Reusing old log /home/niveus/.config/google-chrome/Default/Sync Data/LevelDB/000003.log 
+2022/09/09-13:30:06.022 b564 Level-0 table #5: started
+2022/09/09-13:30:06.043 b564 Level-0 table #5: 98878 bytes OK
+2022/09/09-13:30:06.045 b564 Delete type=0 #3
+2022/09/12-10:09:53.854 c061 Level-0 table #7: started
+2022/09/12-10:09:53.873 c061 Level-0 table #7: 105339 bytes OK
+2022/09/12-10:09:53.877 c061 Delete type=0 #4
+2022/09/12-10:44:54.659 c739 Level-0 table #9: started
+2022/09/12-10:44:54.684 c739 Level-0 table #9: 88194 bytes OK
+2022/09/12-10:44:54.687 c739 Delete type=0 #6
+2022/09/12-11:24:28.306 d288 Level-0 table #11: started
+2022/09/12-11:24:28.326 d288 Level-0 table #11: 94967 bytes OK
+2022/09/12-11:24:28.328 d288 Delete type=0 #8
+2022/09/12-13:39:06.595 f4ee Level-0 table #13: started
+2022/09/12-13:39:06.620 f4ee Level-0 table #13: 91578 bytes OK
+2022/09/12-13:39:06.623 f4ee Delete type=0 #10

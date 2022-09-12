@@ -1,0 +1,3 @@
+[2022-09-12 11:48:17.433] [sharedprocess] [info] Starting worker process with pid 57376 (type: fileWatcher, window: 1).
+[2022-09-12 11:48:23.684] [sharedprocess] [info] Worker process with pid 57376 terminated normally (type: fileWatcher, window: 1).
+[2022-09-12 11:48:24.300] [sharedprocess] [info] Starting worker process with pid 57414 (type: fileWatcher, window: 1).

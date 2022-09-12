@@ -1,0 +1,10 @@
+[2022-09-12 11:48:16.129] [main] [info] update#setState idle
+[2022-09-12 11:48:16.902] [main] [info] Starting extension host with pid 57324 (fork() took 7 ms).
+[2022-09-12 11:48:23.682] [main] [info] Extension host with pid 57324 exited with code: 0, signal: null.
+[2022-09-12 11:48:24.295] [main] [info] Starting extension host with pid 57415 (fork() took 6 ms).
+[2022-09-12 11:48:46.140] [main] [info] update#setState checking for updates
+[2022-09-12 11:48:46.643] [main] [info] update#setState idle
+[2022-09-12 12:48:46.218] [main] [info] update#setState checking for updates
+[2022-09-12 12:48:46.758] [main] [info] update#setState idle
+[2022-09-12 13:48:46.319] [main] [info] update#setState checking for updates
+[2022-09-12 13:48:47.360] [main] [info] update#setState idle

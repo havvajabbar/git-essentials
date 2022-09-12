@@ -1,0 +1,6 @@
+2022/09/01-11:18:47.253 6e9c Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_luxury.tatacliq.com_0.indexeddb.leveldb since it was missing.
+2022/09/01-11:18:47.276 6e9c Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_luxury.tatacliq.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/01-11:19:42.283 6e21 Level-0 table #5: started
+2022/09/01-11:19:42.285 6e21 Level-0 table #5: 1389 bytes OK
+2022/09/01-11:19:42.287 6e21 Delete type=0 #3
+2022/09/01-11:19:42.287 6e21 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

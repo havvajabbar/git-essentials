@@ -1,0 +1,76 @@
+{
+   "checksum": "2c77cd02de382dab8d3ee85568bdd95d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13306230784198590",
+            "guid": "17d52d30-8a2f-482b-869c-6931f0191dfd",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13306230784200037",
+            "guid": "e351ad27-b1a3-49d0-9e38-340285e08c77",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13306230784200368",
+            "guid": "89b8ca0a-c4be-426f-93f2-8b59930841bb",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13306307172534041",
+            "guid": "4ae954a8-8c72-46f2-8378-5b342e07cbfb",
+            "id": "9",
+            "name": "NiveusUni",
+            "type": "url",
+            "url": "https://disprzniveus.mygo1.com/p/#/app/dashboard"
+         }, {
+            "date_added": "13306311165405657",
+            "guid": "c866d645-461b-438f-8db5-c764cf5f25a6",
+            "id": "12",
+            "name": "ZohoPeople",
+            "type": "url",
+            "url": "https://peopleplus.zoho.com/niveussolutionscom/zp#services/listing"
+         }, {
+            "date_added": "13307179877199958",
+            "guid": "d4722d13-f9a1-4058-b433-0c6ad7145206",
+            "id": "14",
+            "name": "Redmine",
+            "type": "url",
+            "url": "https://redmine.niveussolutions.com/"
+         } ],
+         "date_added": "13306230779565407",
+         "date_modified": "13307179877199958",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13306230779565408",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13306230779565409",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpQCCvMBCIiBAhLsARJSCAISTgoGCgJibRABEDMaEgkAIbDpOOgFACEAIbDpOOgFACIUCS5g9/k46AUAEAkZnm9oKVHwf8IyGAoWCAIRQ6MC+jjoBQAYACEAAAAAAAAAABI8CAISOAoGCgJiZBAAEDMaEgkAIbDpOOgFACEAIbDpOOgFADIYChYIAhFDowL6OOgFABgAIQAAAAAAAAAAIABImbiSiLIwcJm4koiyMJIBRwpFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQC2avQ46AUAEQC2avQ46AUAKQLHAvo46AUAMIDsqqOPh/oCEgAgASoYQ1NtY0ovTHlVTHExZFlXMmtTdTdJUT09EuwBCAYS5wEKHEIxZHd6ck9ZT1BueGJyaE9nY2tJa1N4M3Q1RT0SZlo6QURxdEFaeEM0T3BpWmdGYUs5VjZJbDVERWVPQ25kWWIvL2U1RlJYUURvOHR4OEhCajdJVGFLUFdLV20yc0dzTHNVN21Fb0hnV2JnemRBSWZ2dDJCV3I1MGhYSUM4bklSTHc9PRgAIAEoATCtwN3Pj4f6AjiVrpKIsjBAla6SiLIwShx4SGlmS1E3ak9VSG5rd0laYXZDTTM5VWtwZmc9Wh8iHbZkWGRDWWFqbjd3SjdxTFF6cXM2Sm1tUHAvMzg9ZTj5OTMS7AEIDBLnAQocSGpBS0pnRkZMUHV0OGpxeldWZzMvQ0E5OFVRPRJmWjpBRHF0QVp4QzRPcGlaZ0ZhSzlWNklsNURFZU9DQUR1c0krS2Jjb2FvN2NMVzhndkR3dWtXcnZ0WUZ4aEdMVnUxMDBvY1AvOWkvMHUrRjRMc1RpLytWT2RhOHo1UHE1bGUwdz09GAAgASgBMK3A3c+Ph/oCOJWukoiyMECVrpKIsjBKHG9uVTZRMVdyRjJMRHRyc2Y1NWdRVHhlallXVT1aHyId9lBsZkRMc1NPcEc1RmRIZ3VVQVFkdFBkVm1lMD1l0oOLGRLsAQgHEucBChxjMCtUMDl1eVgvMWV6R3FoVGhpeWthUkM1Vm89EmZaOkFEcXRBWnhDNE9waVpnRmFLOVY2SWw1REVlT0NqNmN0c1dheFZIOEdLc1FyTjRQdkVwN3BtOW5LOEhYTXgyZFdVeWR2MUYvS0RrOWt0eFF3NG5OT3QyamhOQ1A4ZEROcmtnPT0YACABKAEwrcDdz4+H+gI4la6SiLIwQJWukoiyMEocTm9nWitHb3JJZVZLei9USHlsWFNsVXFzOGU4PVofIh3bVUNwQzY2b3NyNDVNVGRLSXAzK1cxWkVFZUNRPWWk++iYEuwBCAkS5wEKHDdBS3RkK2E3alRKTHFhWmVqTlNlL2ZpUlFCVT0SZlo6QURxdEFaeEM0T3BpWmdGYUs5VjZJbDVERWVPQzAzYXNnSEFYbFd1aGNUdnFVaXFHeUl0UDRUVU1hbHgzSjFmOFpGVXJQaWZZeXVKOG5iWUk1MTZaOFdvb3hMbVozeVlpMlE9PRgAIAEoATCtwN3Pj4f6AjiVrpKIsjBAla6SiLIwShx4em5xc2ZaalFiTnZjVmppR01QNDV4bzNwRVE9Wh8iHe1WSlhkSDdvMVZaalFhem5ESnhEOVFLNE9VZ289ZQDKj9MS6wEIBRLmAQocYVZ4NGMwVmdpTFNOOVNTZ29pZDdPQUdaMWpNPRJmWjpBRHF0QVp4QzRPcGlaZ0ZhSzlWNklsNURFZU9DYVpPM044ejZqUzdJOWl3cjBKWHVWUkhtZGNhS3Bac2k4VDkxRXhUMEc5VXhpUnJrMlQ3bmJEdi8vNVZaNXllazhKK2pndz09GAAgASgBMK3A3c+Ph/oCOJWukoiyMECVrpKIsjBKHFVPTkFQb0NVT1hnTmh4YVNqYWh3NlFabzFBST1aHiIcbFlLL1dTM01HTm5maTNGdTNxMnB4VEIrZWY0PWWLoIzREsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeTh6Z0l1OFNWYW9YOGd5ckpGZDhITjRIU0hBakpVSnNCU0ZZS09LdU9NMUlaK1VKS3ZOWTV6NWF3cFBQUGIvRmNUSC8vMCtWY3hwWm5mczYrbmV4cDZVT3haNEE9PRgAIAAoADDjsqDPj4f6AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCA4S5wEKHGdLcTZDbHlJcVBSN2xSZ3pMWXhtTkJFclJhZz0SZlo6QURxdEFaeEM0T3BpWmdGYUs5VjZJbDVERWVPQzN3Nm80OUpGTWxxeTV3dEZhNkV4Vlc0d0lvMHFaamoyaTRISWZhNUhBUUNHN0plUWhHb1hXNU0rcWhjOUZTTjFMa01EZ2c9PRgAIAEoATCtwN3Pj4f6AjiVrpKIsjBAla6SiLIwShx5bmRoWXhnMWk5VUF0RjVySmRFc0tNUFp4YUk9Wh8iHfs4ZmwvL0dEQytZV3lCWjVnWGxXVzhHd2k1Vk09ZZj8AOMSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp3bnl4elErVmZZazNKQmlIMkZZeFFmNzhXQjk2NGx3TWNjTU9VeEErRk9DMjdoc1dzMENMRVFONWJQc0ZtaTdpS2lJVUdKGAAgACgAMOOyoM+Ph/oCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp3dG5VOHlzTmRDTzN3ajhTM2JvZk9aMTFlblFVU2JSbkMyNncreThielBtWUN2N3R5azN2VXROZE1RUU92YThuNUYzU2ZwS2FYVUFLbGRXMDRKUDZ3VWtjeW5MZz09GAAgACgAMOOyoM+Ph/oCOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwATgA",
+   "version": 1
+}

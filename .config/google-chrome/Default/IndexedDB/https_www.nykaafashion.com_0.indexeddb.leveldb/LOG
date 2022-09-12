@@ -1,0 +1,6 @@
+2022/08/30-14:45:26.075 5083 Creating DB /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.nykaafashion.com_0.indexeddb.leveldb since it was missing.
+2022/08/30-14:45:26.103 5083 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.nykaafashion.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/30-15:02:58.914 5083 Level-0 table #5: started
+2022/08/30-15:02:58.922 5083 Level-0 table #5: 44832 bytes OK
+2022/08/30-15:02:58.925 5083 Delete type=0 #3
+2022/08/30-15:02:58.925 5083 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

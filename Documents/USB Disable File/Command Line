@@ -1,0 +1,8 @@
+chmod +x USB_Storage_Disable.sh
+bash USB_Storage_Disable.sh 
+sudo su
+bash USB_Storage_Disable.sh
+
+
+
+

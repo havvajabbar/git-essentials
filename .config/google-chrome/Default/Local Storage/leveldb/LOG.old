@@ -1,0 +1,24 @@
+2022/09/05-09:47:11.645 3 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/09/05-09:47:11.645 3 Recovering log #129
+2022/09/05-09:47:11.645 3 Reusing old log /home/niveus/.config/google-chrome/Default/Local Storage/leveldb/000129.log 
+2022/09/05-09:50:40.566 3 Level-0 table #134: started
+2022/09/05-09:50:40.589 3 Level-0 table #134: 19182 bytes OK
+2022/09/05-09:50:40.593 3 Delete type=0 #129
+2022/09/05-10:46:51.607 a Level-0 table #136: started
+2022/09/05-10:46:51.635 a Level-0 table #136: 18825 bytes OK
+2022/09/05-10:46:51.637 a Delete type=0 #133
+2022/09/05-14:41:49.321 1a Level-0 table #138: started
+2022/09/05-14:41:49.343 1a Level-0 table #138: 15993 bytes OK
+2022/09/05-14:41:49.346 1a Delete type=0 #135
+2022/09/05-14:47:44.952 1a Level-0 table #140: started
+2022/09/05-14:47:44.974 1a Level-0 table #140: 15365 bytes OK
+2022/09/05-14:47:44.977 1a Delete type=0 #137
+2022/09/05-14:47:44.978 1a Compacting 4@0 + 1@1 files
+2022/09/05-14:47:45.023 1a Generated table #141@0: 1178 keys, 1523169 bytes
+2022/09/05-14:47:45.023 1a Compacted 4@0 + 1@1 files => 1523169 bytes
+2022/09/05-14:47:45.025 1a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/09/05-14:47:45.026 1a Delete type=2 #136
+2022/09/05-14:47:45.026 1a Delete type=2 #131
+2022/09/05-14:47:45.026 1a Delete type=2 #134
+2022/09/05-14:47:45.026 1a Delete type=2 #138
+2022/09/05-14:47:45.026 1a Delete type=2 #140

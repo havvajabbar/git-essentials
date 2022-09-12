@@ -1,0 +1,7 @@
+2022/09/12-10:54:30.266 c9d0 Reusing MANIFEST /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.tatacliq.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/12-10:54:30.266 c9d0 Recovering log #3
+2022/09/12-10:54:30.266 c9d0 Reusing old log /home/niveus/.config/google-chrome/Default/IndexedDB/https_www.tatacliq.com_0.indexeddb.leveldb/000003.log 
+2022/09/12-10:55:08.117 c8d5 Level-0 table #5: started
+2022/09/12-10:55:08.119 c8d5 Level-0 table #5: 7045 bytes OK
+2022/09/12-10:55:08.121 c8d5 Delete type=0 #3
+2022/09/12-10:55:08.121 c8d5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
