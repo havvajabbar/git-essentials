@@ -1,6 +1,6 @@
-# git-essentials
+####****Git Essentials
 
-#Deployment notes
-lorem ipsum 
-#Staging notes
-#How to use this repo notes 
+#####****Deployment notes 
+
+#####**Staging Notes**
+#####**Repo notes**
